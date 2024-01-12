@@ -1,6 +1,10 @@
 # histogram-dataset
 # histogram for the dataset
 
+# Project Question
+Create a Python script to select only the data from "Swale at Catterick Bridge" location, and find the mean temperature and median dissolved oxygen. Also plot a histogram showing the 
+distribution of temperature over the time period of study. 
+
 # Project Description:
 
 The Dataset Histogram Generator is a Python project designed to efficiently read and analyze datasets, providing users with insightful visualizations in the form of histograms. This project aims to empower data analysts, scientists, and enthusiasts to explore and understand the distribution of numerical data within their datasets.
