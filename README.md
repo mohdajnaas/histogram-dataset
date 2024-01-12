@@ -1,7 +1,5 @@
 # histogram-dataset
-# histogram for the dataset
 
-# Project Question
 Create a Python script to select only the data from "Swale at Catterick Bridge" location, and find the mean temperature and median dissolved oxygen. Also plot a histogram showing the 
 distribution of temperature over the time period of study. 
 
