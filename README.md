@@ -22,3 +22,9 @@ The Dataset Histogram Generator is a Python project designed to efficiently read
 # Dependencies:
 
 The project relies on popular Python libraries for data manipulation and visualization, such as Pandas for data handling and Matplotlib or Seaborn for creating histograms.
+
+# Output
+![output Image](https://github.com/mohdajnaas/histogram-dataset/blob/7eeb13fa69ef30df5842e34cf6625523c99b7752/Screenshot%20from%202023-09-19%2012-14-09.png)
+
+![histogram](https://github.com/mohdajnaas/histogram-dataset/blob/7eeb13fa69ef30df5842e34cf6625523c99b7752/Screenshot%20from%202023-09-19%2012-15-22.png)
+
